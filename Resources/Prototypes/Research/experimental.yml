@@ -160,3 +160,17 @@
   cost: 10000
   recipeUnlocks:
   - DeviceDesynchronizer
+
+  - type: technology
+  id: Cloning
+  name: research-technology-bluespace-time-manipulation
+  icon:
+    sprite: Structures/Machines/cloning.rsi/pod_0.png
+    state: icon
+  discipline: Experimental
+  tier: 3
+  cost: 20000
+  recipeUnlocks:
+  - CloningConsoleComputerCircuitboard
+  - CloningPodMachineCircuitboard
+  - MedicalScannerMachineCircuitboard
